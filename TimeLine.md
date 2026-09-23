@@ -9,21 +9,25 @@ A shared daily log for tracking what each teammate worked on, blockers, and next
 - Mention blockers early so others can help.
 
 ---
-
-## Date: YYYY-MM-DD
-
-### Member: Name
+### -- FORMAT --
+### Role: Name
 - What was done:
 - Progress made:
 - Blockers:
 - Next step:
 - Notes:
+---
+## Date: 2026-09-22
 
-### Member: Name
-- What was done:
-- Progress made:
-- Blockers:
-- Next step:
-- Notes:
+### Owner: Sathya
+- What was done: Created Repository and Organization.
+- Notes: Had a tough time with providing admin access.
+
+---
+## Date: 2026-09-23
+
+### Owner: Sathya
+- What was done: Initialized Codex and configured all necessary plugins.
+- Notes: Learnt how to setup an AI in my desktop.
 
 ---
