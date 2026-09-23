@@ -19,15 +19,21 @@ A shared daily log for tracking what each teammate worked on, blockers, and next
 ---
 ## Date: 2026-09-22
 
-### Owner: Sathya
+### Co-Creator & Repository Owner : Sathya
 - What was done: Created Repository and Organization.
 - Notes: Had a tough time with providing admin access.
 
+### Co-Creator & Technical Lead : Charan
+- What was done: Enabled Entire to capture AI and developer intent in my computer.
+- Notes: Set up the environment for tracking and development work.
 ---
 ## Date: 2026-09-23
 
-### Owner: Sathya
+### Co-Creator & Repository Owner : Sathya
 - What was done: Initialized Codex and configured all necessary plugins.
 - Notes: Learnt how to setup an AI in my desktop.
 
+### Co-Creator & Technical Lead : Charan
+- What was done: Finalized BRD and project details.
+- Notes: Confirmed the scope and documentation for the project.
 ---
