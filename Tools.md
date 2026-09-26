@@ -1,21 +1,21 @@
 ### SUGGESTED TOOL STACK FOR EACH AI AGENT
 ---
-##Orchestration
-#Most Suited
--LangGraph — Stateful multi-agent workflow graph for sequential/parallel agent execution and shared evidence state.
+## Orchestration
+# Most Suited
+- LangGraph — Stateful multi-agent workflow graph for sequential/parallel agent execution and shared evidence state.
 
 #Alternatives
-CrewAI, AutoGen, custom Python asyncio orchestrator.
+- CrewAI, AutoGen, custom Python asyncio orchestrator.
 
 ---
 ## Company Verification
 # Most Suited
--Domain Enricher — WHOIS, DNS, domain age, tech stack, email provider, and social profiles from a domain.
+- Domain Enricher — WHOIS, DNS, domain age, tech stack, email provider, and social profiles from a domain.
 
--cert-cli — Certificate transparency log search to discover related domains and organization metadata.
+- cert-cli — Certificate transparency log search to discover related domains and organization metadata.
 
 # Alternatives
--WhoisXML API, SecurityTrails, python-whois + dnspython.
+- WhoisXML API, SecurityTrails, python-whois + dnspython.
 
 ---
 ## Recruiter Verification
@@ -23,35 +23,35 @@ CrewAI, AutoGen, custom Python asyncio orchestrator.
 
 - WhatsMyName — Fast username enumeration across 300+ sites for initial recruiter identity scan.
 
--Sherlock — Broad username sweep across 400+ social networks and websites.
+- Sherlock — Broad username sweep across 400+ social networks and websites.
 
--Maigret — Deep profile extraction across 2,500+ sites including bio, display name, and links.
+- Maigret — Deep profile extraction across 2,500+ sites including bio, display name, and links.
 
--Holehe — Silent email registration check across 120+ platforms using password-reset flows.
+- Holehe — Silent email registration check across 120+ platforms using password-reset flows.
 
--GHunt — Google account metadata and linked asset enrichment from a Gmail address.
+- GHunt — Google account metadata and linked asset enrichment from a Gmail address.
 
--CrossLinked — LinkedIn employee name enumeration via search-engine scraping for organization verification.
+- CrossLinked — LinkedIn employee name enumeration via search-engine scraping for organization verification.
 
 # Alternatives
--Social Analyzer, EmailRep, Epieos, theHarvester, Namechk.
+- Social Analyzer, EmailRep, Epieos, theHarvester, Namechk.
 
 ---
 ## Domain/Website
 # Most Suited
--Domain Enricher — WHOIS, DNS, domain age, nameserver, SSL, and email provider analysis.
+- Domain Enricher — WHOIS, DNS, domain age, nameserver, SSL, and email provider analysis.
 
--urlscan.io — Website scanning for redirects, DOM, screenshots, and phishing indicators.
+- urlscan.io — Website scanning for redirects, DOM, screenshots, and phishing indicators.
 
 # Alternatives
-Website Intelligence Analyzer, SecurityTrails.
+- Website Intelligence Analyzer, SecurityTrails.
 
 ---
 ## OSINT
 # Most Suited
--SpiderFoot — Automated OSINT collection across 200+ modules with correlation engine and JSON export.
+- SpiderFoot — Automated OSINT collection across 200+ modules with correlation engine and JSON export.
 
--Maltego CE — Visual link analysis and relationship mapping for final report graphs.
+- Maltego CE — Visual link analysis and relationship mapping for final report graphs.
 
 # Alternatives
 - theHarvester, Recon-ng.
