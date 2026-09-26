@@ -37,3 +37,10 @@ A shared daily log for tracking what each teammate worked on, blockers, and next
 - What was done: Finalized BRD and project details.
 - Notes: Confirmed the scope and documentation for the project.
 ---
+##-----RESEARCHING PERIOD-----
+## Date: 2026-09-27
+
+### Co-Creator & Repository Owner : Sathya
+- What was done: Researched about how to harness multiple AI agents.
+- Notes: Found some tools and it will be updated in my own branch as Tools.txt file.
+---
