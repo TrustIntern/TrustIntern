@@ -37,7 +37,8 @@ A shared daily log for tracking what each teammate worked on, blockers, and next
 - What was done: Finalized BRD and project details.
 - Notes: Confirmed the scope and documentation for the project.
 ---
-##-----RESEARCHING PERIOD-----
+## -----RESEARCHING PERIOD-----
+---
 ## Date: 2026-09-27
 
 ### Co-Creator & Repository Owner : Sathya
