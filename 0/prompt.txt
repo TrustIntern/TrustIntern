@@ -1,0 +1,15 @@
+# AGENTS.md instructions
+
+<INSTRUCTIONS>
+# graphify
+- **graphify** (`~/.Codex/skills/graphify/SKILL.md`) - any input to knowledge graph. Trigger: `/graphify`
+When the user types `/graphify`, invoke the Skill tool with `skill: "graphify"` before doing anything else.
+</INSTRUCTIONS>
+
+<environment_context>
+  <cwd>C:\Users\shiva\Documents\CODEWORKS\OSINT-InternScam-Radar</cwd>
+  <shell>powershell</shell>
+  <current_date>2026-09-27</current_date>
+  <timezone>Asia/Calcutta</timezone>
+  <filesystem><workspace_roots><root>C:\Users\shiva\Documents\CODEWORKS\OSINT-InternScam-Radar</root></workspace_roots><permission_profile type="managed"><file_system type="restricted"><entry access="read"><special>:root</special></entry><entry access="write"><path>C:\Users\shiva\Documents\CODEWORKS\OSINT-InternScam-Radar</path></entry><entry access="write"><special>:slash_tmp</special></entry><entry access="write"><special>:tmpdir</special></entry><entry access="read"><path>C:\Users\shiva\Documents\CODEWORKS\OSINT-InternScam-Radar\.git</path></entry><entry access="read"><path>C:\Users\shiva\Documents\CODEWORKS\OSINT-InternScam-Radar\.agents</path></entry><entry access="read"><path>C:\Users\shiva\Documents\CODEWORKS\OSINT-InternScam-Radar\.codex</path></entry></file_system></permission_profile></filesystem>
+</environment_context>
