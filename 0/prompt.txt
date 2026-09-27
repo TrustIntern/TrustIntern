@@ -1,0 +1,5 @@
+<image name=[Image #1] path="C:\Users\shiva\OneDrive\Pictures\Screenshots\Screenshot 2026-09-27 135900.png">
+
+</image>
+
+[Image #1] check this out its trusted and allowed when i check /hooks and also  "C:\Users\shiva\Documents\CODEWORKS\OSINT-InternScam-Radar\.codex\hooks.json" i cant reason this
