@@ -35,6 +35,7 @@ A shared daily log for tracking what each teammate worked on, blockers, and next
 
 ### Co-Creator & Technical Lead : Charan
 - What was done: Finalized BRD and project details.
+- Files Changed: [TrustIntern_BRD.md](TrustIntern_BRD.md)
 - Notes: Confirmed the scope and documentation for the project.
 ---
 ## -----RESEARCHING PERIOD-----
@@ -44,4 +45,10 @@ A shared daily log for tracking what each teammate worked on, blockers, and next
 ### Co-Creator & Repository Owner : Sathya
 - What was done: Researched about how to harness multiple AI agents.
 - Notes: Found some tools and it will be updated in my own branch as Tools.txt file.
+
+
+### Co-Creator & Technical Lead : Charan
+- What was done: Finalized build plan, allocating iterations and sprints.
+- Files Changed: [plan.md](plan.md)
+- Notes: Delegated sprints for each of the project's standalone features and planned the base layer.
 ---
